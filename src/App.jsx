@@ -17,7 +17,7 @@ const App = () => {
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </BrowserRouter>
-    </div>y.2001@gmail.com
+    </div>
   )
 }
 
